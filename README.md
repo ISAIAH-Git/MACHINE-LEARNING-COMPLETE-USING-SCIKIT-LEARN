@@ -50,14 +50,14 @@
     
    # Algorithums:
      
-     Logistic Regression
+   Logistic Regression
      
-     KNN
+   KNN
      
-     Linear Regression...etc
+   Linear Regression...etc
 
    # OPTIMIZATION :
     
-    GRID SEARCH CV
+   GRID SEARCH CV
     
-    RANDOM SEARCH CV
+   RANDOM SEARCH CV
