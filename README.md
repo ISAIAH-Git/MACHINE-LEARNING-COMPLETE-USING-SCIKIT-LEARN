@@ -4,19 +4,19 @@
   
  # CONCEPTS APPLIED:
    
-   Classification
+    Classification
    
-   Regression
+    Regression
    
-   Data-Set Splitting for Model Building
+    Data-Set Splitting for Model Building
    
     i) Train-Test-Split
     
-   ii) Cross Validation
+    ii) Cross Validation
    
-  iii) KFold Cross Validation
+    iii) KFold Cross Validation
   
-  iv) Adjusting threshold etc..
+    iv) Adjusting threshold etc..
   
   # EVALUATION METRICS:
     
