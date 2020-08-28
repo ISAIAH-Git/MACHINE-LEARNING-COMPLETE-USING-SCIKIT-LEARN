@@ -20,7 +20,7 @@
   
   # EVALUATION METRICS:
     
-   CLASSIFICATION:
+   # CLASSIFICATION:
     
    Confusion Matrix
      
@@ -36,7 +36,7 @@
      
    F1 score...etc
 
-   REGRESSION:
+   # REGRESSION:
     
    Mean Absolute Error
     
