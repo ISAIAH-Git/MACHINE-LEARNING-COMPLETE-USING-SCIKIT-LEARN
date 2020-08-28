@@ -4,49 +4,49 @@
   
  # CONCEPTS APPLIED:
    
-    Classification
+  Classification
    
-    Regression
+  Regression
    
-    Data-Set Splitting for Model Building
+  Data-Set Splitting for Model Building
    
-    i) Train-Test-Split
+  i) Train-Test-Split
     
-    ii) Cross Validation
+  ii) Cross Validation
    
-    iii) KFold Cross Validation
+  iii) KFold Cross Validation
   
-    iv) Adjusting threshold etc..
+  iv) Adjusting threshold etc..
   
   # EVALUATION METRICS:
     
-    CLASSIFICATION:
+   CLASSIFICATION:
     
-     Confusion Matrix
+   Confusion Matrix
      
-     ROC Curve
+   ROC Curve
      
-     Accuracy
+   Accuracy
      
-     True Positive Rate
+   True Positive Rate
      
-     Precision
+   Precision
      
-     Recall
+   Recall
      
-     F1 score...etc
+   F1 score...etc
 
-    REGRESSION:
+   REGRESSION:
     
-    Mean Absolute Error
+   Mean Absolute Error
     
-    Mean Squared Error
+   Mean Squared Error
     
-    Root Mean Squared Error
+   Root Mean Squared Error
     
-    R square
-    
-    Adjusted R square
+   R square
+      
+   Adjusted R square
     
    # Algorithums:
      
@@ -55,3 +55,9 @@
      KNN
      
      Linear Regression...etc
+
+   # OPTIMIZATION :
+    
+    GRID SEARCH CV
+    
+    RANDOM SEARCH CV
